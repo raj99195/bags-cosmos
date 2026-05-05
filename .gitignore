@@ -1,0 +1,53 @@
+# 🔹 Node modules
+node_modules/
+
+# 🔹 Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🔹 Build folders
+dist/
+build/
+.out/
+.next/
+
+# 🔹 Environment files
+.env
+.env.local
+.env.*.local
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 IDE files
+.vscode/
+.idea/
+
+# 🔹 Unity (agar use ho raha ho)
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# 🔹 Cache
+.cache/
+
+# 🔹 Misc
+*.pid
+*.seed
+*.pid.lock
+
+# 🔹 Coverage
+coverage/
+
+# 🔹 Optional large files
+*.zip
+*.rar
+*.7z
